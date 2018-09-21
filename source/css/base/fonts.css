@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Ash';
+  src: url('../../assets/fonts/DCC-Ash-Tipografía-títulos.otf');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Verdana-custom';
+  src: url('../../assets/fonts/Verdana-Tipografía-texto.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
